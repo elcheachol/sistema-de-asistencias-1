@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Asistencias - IPET N° 247",
+  "description": "Sistema de gestión y registro de asistencias, inasistencias y reportes mensuales para preceptores y profesores de la Escuela Técnica IPET N° 247.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
